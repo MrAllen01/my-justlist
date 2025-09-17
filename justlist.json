@@ -1,6 +1,6 @@
 {
-  "name": "My TRC20 Tokens - JustList",
-  "logoURI": "https://example.com/usdt-logo.png",
+  "name": "my-justlist (TRC20)",
+  "logoURI": "https://mrallen01.github.io/my-justlist/usdt.png",
   "timestamp": 1758067200000,
   "tokens": [
     {
@@ -9,8 +9,12 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://example.com/usdt-token.png"
+      "logoURI": "https://mrallen01.github.io/my-justlist/usdt.png"
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
